@@ -1,5 +1,6 @@
-# ProyectoCienciaDatos
+# Estructura del Proyecto
 
+```bash
 nombre_proyecto/
 │
 ├── data/
